@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Hafiz! 👋
 
-<!--
-**hafanza/hafanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year college student pursuing a degree in Informatics Engineering at UIN SGD Bandung. 🚀
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying at UIN SGD Bandung.
+- 💻 Passionate about Music and Visual Appear.
+- 🌱 I’m currently learning and exploring various aspects of Designing.
+  
+### Tech Stack
+
+- 🔧 Tools: VSCode (Beginner)
+- 🎨 Design: Adobe Illustrator, Phonto
+- 🎬 Video and Pict Editing: Adobe Lightroom, CapCut, VSCO
+  
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hafanza/)](https://www.linkedin.com/in/hafanza/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hafanza)](https://github.com/hafanza)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hafanzza/)](https://www.instagram.com/hafanzza/)
+
+### Let's connect and collaborate! 🚀
